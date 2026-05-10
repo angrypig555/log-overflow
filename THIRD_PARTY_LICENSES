@@ -1,0 +1,5 @@
+This project uses third party libraries.
+- shellexpand - Licensed under Apache-2.0 OR MIT
+- chrono - Licensed under Apache-2.0 OR MIT
+
+All of these packages used are available on crates.io

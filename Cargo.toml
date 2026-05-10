@@ -1,7 +1,14 @@
 [package]
 name = "log-overflow"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+description = "A simple and lightweight logging library."
+readme = "README.md"
+homepage = "https://brny.dev"
+repository = "https://github.com/angrypig555/log-overflow"
+license = "MIT or Apache-2.0"
+keywords = ["library", "logging", "log", "simple", "lightweight"]
+categories = ["development-tools::debugging"]
 
 [dependencies]
 chrono = "0.4.44"
