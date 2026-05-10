@@ -6,7 +6,7 @@ description = "A simple and lightweight logging library."
 readme = "README.md"
 homepage = "https://brny.dev"
 repository = "https://github.com/angrypig555/log-overflow"
-license = "MIT or Apache-2.0"
+license = "MIT OR Apache-2.0"
 keywords = ["library", "logging", "log", "simple", "lightweight"]
 categories = ["development-tools::debugging"]
 
